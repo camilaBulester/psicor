@@ -1,0 +1,80 @@
+nav{
+    background-color: rgb(196, 218, 218);
+}
+
+nav ul li:hover{
+    background-color: rgb(219, 250, 240);
+    transition: 0.8s all;
+    padding: 25px 25px;
+}
+
+h1{
+    padding-top: 8%;
+}
+
+body{
+   background-image: url(../imagenes/imagen2.jpeg);
+}
+
+.container{
+    margin-top: 10px;
+}
+
+
+.seccion1{
+    margin-top: 10%;
+    background-color: rgb(225, 234, 245);
+    
+}
+
+.seccion2{
+ 
+    background-color: rgb(151, 187, 211);
+width: 100%;
+}
+
+
+
+.texto{
+    width: 40%;
+    padding: 40px;
+    vertical-align: text-bottom;
+}
+
+article{
+    background-color: rgb(204, 220, 238);
+}
+
+
+.seccion3{
+    background-color: rgb(205, 217, 230);
+  
+}
+
+.boton{
+    text-align: center;
+    background-color: rgb(157, 157, 226);
+    padding: 15px;}
+
+    .boton a{
+        text-decoration: none;
+        color: rgb(21, 22, 22);
+    
+    }
+    
+    .boton:hover{
+        background: aqua;
+    }
+
+    footer{
+        background-color: rgb(106, 150, 150);
+        color: rgb(247, 242, 242);
+        line-height: 30px;
+        text-align: center;
+        padding: 50px;
+    }
+    
+    footer div a{
+        text-decoration: none;
+        color: rgb(248, 248, 248);
+    }
